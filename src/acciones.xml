@@ -1,0 +1,10 @@
+<acciones>
+    <accion>
+        <nombre>Apple Inc.</nombre>
+        <precio>150.00</precio>
+    </accion>
+    <accion>
+        <nombre>Google</nombre>
+        <precio>2800.00</precio>
+    </accion>
+</acciones>
